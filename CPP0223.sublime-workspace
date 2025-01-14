@@ -1,0 +1,291 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inl",
+				"includelib"
+			],
+			[
+				"inc",
+				"includelib"
+			],
+			[
+				"Std",
+				"StdOut"
+			],
+			[
+				"in",
+				"inputBuffer"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"nha",
+				"nhapThongTinSV"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: hello"
+			],
+			[
+				"indent",
+				"Indentation: Detect"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 173.800003052,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/sublime_text_build_4180_x64/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/D/sublime_text_build_4180_x64/Data/Packages/Guna/Guna.sublime-settings",
+		"/D/sublime_text_build_4180_x64/Data/Packages/User/Guna.sublime-settings",
+		"/D/Code/codeptit/New folder/answer.txt",
+		"/D/Code/codeptit/New folder/output.txt",
+		"/D/Code/codeptit/New folder/input.txt",
+		"/D/Code/codeptit/New folder/CPP0223.cpp",
+		"/D/Code/codeptit/New folder/CPP0222.cpp",
+		"/D/Code/codeptit/New folder/CPP0216.cpp",
+		"/D/Code/codeptit/New folder/CPP0142.cpp",
+		"/D/Code/codeptit/New folder/CPP0723.cpp",
+		"/D/Code/codeptit/New folder/CPP0108.cpp",
+		"/D/sublime_text_build_4180_x64/Data/Packages/User/CPP-Compiler.sublime-build",
+		"/D/Code/codeptit/New folder/BauCu.cpp",
+		"/D/Code/codeptit/New folder/CPP0743.cpp",
+		"/D/Code/codeptit/New folder/CPP0601.cpp",
+		"/D/Code/codeptit/New folder/CPP05092.cpp",
+		"/D/Code/codeptit/New folder/CPP0315.cpp",
+		"/D/Code/codeptit/New folder/CPP05093.cpp",
+		"/D/Code/codeptit/New folder/CPP0327.cpp",
+		"/D/Code/codeptit/New folder/CPP0343.cpp",
+		"/D/Code/codeptit/New folder/CPP0517.cpp",
+		"/D/Code/codeptit/New folder/CPP0711.cpp",
+		"/D/Code/codeptit/New folder/CPP0311.cpp",
+		"/C/Users/highe/OneDrive/Desktop/B23DCAT007 - Giua ki/bai 3.cpp",
+		"/C/Users/highe/convert.py",
+		"/D/convert.py",
+		"/D/VaultDoorTraining.java",
+		"/D/sublime_text_build_4180_x64/Data/Packages/User/CP.sublime-build",
+		"/D/Code/codeptit/New folder/CPP0310.cpp",
+		"/D/Code/codeptit/New folder/CPP0371.cpp",
+		"/D/Code/codeptit/New folder/CPP0354.cpp",
+		"/D/Code/codeptit/New folder/CPP0332.cpp",
+		"/D/Code/codeptit/New folder/CPP0333.cpp",
+		"/D/Code/codeptit/New folder/CPP0339.cpp",
+		"/D/Code/codeptit/New folder/CPP0309.cpp",
+		"/D/Code/codeptit/New folder/CPP0319.cpp",
+		"/D/Code/codeptit/New folder/CPP0312.cpp",
+		"/D/Code/inp.txt",
+		"/D/Code/out.txt",
+		"/D/Code/Untitled1.cpp",
+		"/D/sublime_text_build_4180_x64/Data/Packages/User/Hackerrank.sublime-build",
+		"/D/Code/MASM32-B23DCAT007/1to10.asm",
+		"/D/Code/Hello.cpp",
+		"/D/Code/MASM32-B23DCAT007/hello-5.asm",
+		"/D/Code/MASM32 - B23DCAT007/1to10.asm",
+		"/D/sublime_text_build_4180_x64/Data/Packages/User/MASM.sublime-build",
+		"/D/Code/Ex3.asm",
+		"/D/Code/Ex4.asm",
+		"/D/Code/Ki-tu-thuong-sang-ki-tu-in-hoa.asm",
+		"/D/Code/test.asm",
+		"/D/Code/hello.asm",
+		"/D/Code/codeptit/New folder/CPP0314.cpp",
+		"/D/Code/codeptit/New folder/CPP0217.cpp",
+		"/D/Code/codeptit/New folder/CPP204C4000.cpp",
+		"/D/Code/codeptit/New folder/CPP0504.cpp",
+		"/D/Code/codeptit/New folder/CPP0507.cpp",
+		"/D/Code/codeptit/New folder/CPP0503.cpp",
+		"/D/Code/codeptit/New folder/CPP0317.cpp",
+		"/D/Code/codeptit/New folder/CPP0505.cpp",
+		"/D/Code/codeptit/New folder/CPP0501.cpp",
+		"/D/Code/codeptit/New folder/CPP0502.cpp",
+		"/D/sublime_text_build_4180_x64/Data/Packages/User/test.sublime-snippet",
+		"/D/Code/codeptit/New folder/CPP0309-1.cpp",
+		"/D/Code/test const.cpp",
+		"/D/sublime_text_build_4180_x64/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Code/codeptit/New folder/CPP0118.cpp",
+		"/D/Code/codeptit/New folder/CPP0173.cpp",
+		"/D/Code/codeptit/New folder/CPP0212.cpp",
+		"/D/sublime_text_build_4180_x64/Data/Packages/User/hello.sublime-snippet",
+		"/D/Code/codeptit/New folder/CPP0325.cpp",
+		"/D/Code/codeptit/New folder/CPP0219.cpp",
+		"/D/Code/codeptit/New folder/CPP0220.cpp",
+		"/D/Code/codeptit/New folder/CPP0259.cpp",
+		"/D/Code/codeptit/New folder/CPP0230.cpp",
+		"/D/Code/codeptit/New folder/CPP0244.cpp",
+		"/D/Code/codeptit/New folder/CPP0227.cpp"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 55.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/CPP-Compiler.sublime-build",
+	"project": "CPP0223.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
